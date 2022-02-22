@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    background-color: coral;
+}
+
+.heading{
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 6rem;
+  color:maroon;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+p {
+  font-size: 2rem;
+  color:darkslategray;
+  font-family: 'Indie Flower', cursive;
+}
+
+#dice1{
+    padding-right: 10%;
+    width:90%;
+}
+
+#dice2{
+    padding-left: 10%;
+    width:90%
+}
+
+footer{
+    margin-top: 5%;
+    font-style: bold;
+    font-family: 'Franklin Gothic Medium';
+}
